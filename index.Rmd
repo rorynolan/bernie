@@ -1,6 +1,6 @@
 --- 
 title: "My Bernie Story"
-author: "Yihui Xie"
+author: "Rory Nolan"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
