@@ -1,0 +1,13 @@
+--- 
+title: "My Bernie Story"
+author: "Yihui Xie"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib]
+biblio-style: apalike
+link-citations: yes
+description: "My experience working on the Bernie campaign."
+---
+
+My Bernie Story.
