@@ -10,4 +10,8 @@ link-citations: yes
 description: "My experience working on the Bernie campaign."
 ---
 
-My Bernie Story.
+# Preface {-}
+
+## Ways to read {-}
+
+This thesis may be read on the web at https://rorynolan.github.io/bernie/. If you are reading this on the web now but would like a PDF or EPUB version, click on the download symbol at the top left of the page (to the right of the __A__). 
